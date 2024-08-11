@@ -1,0 +1,13 @@
+tipo:Hidrogeno:5000:500.0
+tipo:Corriente:18000:100.0
+tipo:Agua:1000:1000.0
+tipo:Mercurio:10000:200.0
+surtidor:Trey:Hidrogeno:0.0:Corriente:0.0:Agua:0.0:Mercurio:0.0
+surtidor:Riddle:Hidrogeno:0.0:Corriente:0.0:Agua:0.0:Mercurio:0.0
+surtidor:Cater:Hidrogeno:0.0:Corriente:0.0:Agua:0.0:Mercurio:0.0
+surtidor:Cater:Hidrogeno:0.0:Corriente:0.0:Agua:0.0:Mercurio:0.0
+empleado:Ace:0
+empleado:Riddle:0
+empleado:Trey:0
+empleado:Deuce:0
+empleado:Cater:0
